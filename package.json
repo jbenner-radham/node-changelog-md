@@ -1,6 +1,6 @@
 {
   "name": "changelog-md",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": " A CHANGELOG.md generator library.",
   "engines": {
     "node": ">=6.11"
